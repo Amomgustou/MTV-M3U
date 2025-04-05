@@ -1,0 +1,59 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="MTVClassicEast.us",MTV Classic East (720p)
+https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
+#EXTINF:-1, MTV Music
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245d15062cd1f00070a2338/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%257BTARGETOPT%257D&deviceId=%257BPSID%257D&advertisingId=%257BPSID%257D&us_privacy=1YNY&samsung_app_domain=%257BAPP_DOMAIN%257D&samsung_app_name=%257BAPP_NAME%257D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1, MTV Pluto TV (Germany)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=2&deviceId=5caf325764025859afdd6c4d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=51.2993&deviceLon=9.4910&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false
+
+#EXTINF:-1, MTV Spankin' New
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1, MTV Unplugged
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f76/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%257BTARGETOPT%257D&deviceId=%257BPSID%257D&advertisingId=%257BPSID%257D&us_privacy=1YNY&samsung_app_domain=%257BAPP_DOMAIN%257D&samsung_app_name=%257BAPP_NAME%257D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="PlutoTVMTVClassic.us",Pluto TV MTV Classic
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+
+#EXTINF:-1 tvg-id="MTV2East.us",MTV2 (720p)
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
+
+#EXTINF:-1 tvg-id="MTV2East.us",MTV2 East
+http://fl2.moveonjoy.com/MTV_2/index.m3u8
+
+#EXTINF:-1 tvg-id="",VH1 Hip Hop Family
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1021-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e1d0f143-568e-4ded-ab2f-4285d4a8ae11
+
+#EXTINF:-1 tvg-id="",VH1 Hip Hop Family 2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7789c1d210fd0007a92182/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1022-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21d1c419-f5c5-44cf-8bd1-7d41c018202e
+
+#EXTINF:-1 tvg-id="",VH1 I Love Reality
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1023-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f21eb55-d525-4fad-8ebe-028203d6d0ec
+
+#EXTINF:-1 tvg-id="MTVBiggestPop.us",MTV Biggest Pop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
+
+#EXTINF:-1 tvg-id="MTVDating.us",MTV Dating
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5ae0ea87-0212-4457-893b-bd236028e5de
+
+#EXTINF:-1 tvg-id="MTVenEspanol.us",MTV en Español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dcbebf0b-626f-449a-85cf-4ce663af39d1
+
+#EXTINF:-1 tvg-id="",MTV Flow Latino
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85a85ad1-7bde-49e4-8ce9-39bcfed2588f
+
+#EXTINF:-1 tvg-id="",MTV Flow Latino
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=56382db3-6b4e-4882-a137-5d56dc5478e5
+
+#EXTINF:-1 tvg-id="MTVPlutoTV.us",MTV Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21f0e654-cec9-4722-a81b-dd17d02581d3
+
+#EXTINF:-1 tvg-id="MTVSpankinNew.us",MTV Spankin' New
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4
+
+#EXTINF:-1 tvg-id="YoMTV.us",Yo! MTV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3737-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=32448355-0e6b-41d6-91ca-4bad8ef8310d
+
