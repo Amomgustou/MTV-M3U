@@ -18,9 +18,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f98471110cca20007d39f
 #EXTINF:-1 tvg-id="PlutoTVMTVClassic.us",Pluto TV MTV Classic
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 
-#EXTINF:-1 tvg-id="MTV2East.us",MTV2 (720p)
-https://fl5.moveonjoy.com/MTV_2/index.m3u8
-
 #EXTINF:-1 tvg-id="MTV2East.us",MTV2 East
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
 
